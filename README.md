@@ -17,8 +17,10 @@
  
 <div style="display: inline_block"><br>
     <img align="left" alt="Rafa-React" width="48%" src="https://github-readme-stats.vercel.app/api?username=Derick1337&show_icons=true&theme=transparent&hide_rank=true">
-    <img align=right alt="Lucas-Teste" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derick1337&layout=donut&theme=transparent">
+    <img align=right alt="Lucas-Teste" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derick1337&layout=donut&theme=transparent">
 </div>
+____________
+
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/derick_1337" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucaspereiraderick@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
