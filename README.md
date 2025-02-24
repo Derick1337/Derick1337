@@ -15,14 +15,24 @@
   
   ##
  
-<div>
+<div style="display: inline_block"><br>
     <img align="left" alt="Rafa-React" width="475 em" src="https://github-readme-stats.vercel.app/api?username=Derick1337&show_icons=true&theme=transparent&hide_rank=true">
     <img align=right alt="Lucas-Teste" width="475 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derick1337&layout=donut&theme=transparent">
+  ___
 </div>
-<div>
-  
-</div>
-<div> 
+               
+:crown:
+:computer:
+:space_invader:                                                                       
+:space_invader:
+:space_invader:
+***
+:zap:
+:computer:              
+:headphones:
+:video_game:
+___ 
+<div style="display: inline_block"><br>
   <a href="https://www.instagram.com/derick_1337" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucaspereiraderick@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-derick-silva-pereira-507861276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
