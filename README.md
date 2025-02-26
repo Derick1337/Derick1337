@@ -22,7 +22,7 @@
 
 ### 📌 Projeto 1
 [![Preview do Projeto 1](https://via.placeholder.com/400x250/2D2D2D/FFFFFF?text=Preview+Projeto+1)](link_do_projeto_1)
-**Tecnologias:** Python, Blender  
+**Tecnologias:** Python  
 Descrição breve do projeto com suas funcionalidades principais.
 
 ### 📌 Projeto 2
