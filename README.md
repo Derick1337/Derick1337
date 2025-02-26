@@ -20,11 +20,14 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
 
-### 📌 Projeto 1
-[![Preview do Projeto 1](https://via.placeholder.com/400x250/2D2D2D/FFFFFF?text=Preview+Projeto+1)](link_do_projeto_1)
-**Tecnologias:** Python  
-Descrição breve do projeto com suas funcionalidades principais.
+### 📌 Projeto 1  (Chronicles of the hero)
+<a href="link_do_projeto_1">
+  <img src="https://github.com/Derick1337/Chronicles_of_the_hero/blob/main/Screenshot%202025-02-26%20161708.png" alt="Preview do Projeto 1" width="450" height="250" style="border-radius: 8px; border: 2px solid #ccc;">
+</a>  
 
+**Tecnologias:** Python  
+Part of a college project built alongside my friend Lincon (@LinconAvila), it is a simple local PvP fighting game programmed in Python, using the Pyxel library. 
+<!--
 ### 📌 Projeto 2
 [![Preview do Projeto 2](https://via.placeholder.com/400x250/2D2D2D/FFFFFF?text=Preview+Projeto+2)](link_do_projeto_2)
 **Tecnologias:** JavaScript, HTML5, CSS3  
@@ -34,7 +37,7 @@ Descrição breve do projeto com suas funcionalidades principais.
 [![Preview do Projeto 3](https://via.placeholder.com/400x250/2D2D2D/FFFFFF?text=Preview+Projeto+3)](link_do_projeto_3)
 **Tecnologias:** C, R  
 Descrição breve do projeto com suas funcionalidades principais.
-
+-->
 </div>
 
 ## 📊 GitHub Stats
