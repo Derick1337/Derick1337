@@ -56,7 +56,4 @@ Descrição breve do projeto com suas funcionalidades principais.
   <a href="https://www.linkedin.com/in/lucas-derick-silva-pereira-507861276/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.behance.net/seu_perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
-  </a>
 </div>
