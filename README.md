@@ -1,13 +1,14 @@
 # Olá, Eu Sou Lucas Derick (Derick1337)
-- 🔭 Trabalho com TI
-- 🌱 Atualmente estudando: C, Python, R, JavaScript, Blender
-- 🎨 Skills criativas: Modelagem 3D, Design gráfico
+- 🔭 Trabalho com TI  
+- 🌱 Atualmente estudando: C, C++, Python, R, JavaScript, Blender  
+- 🎨 Skills criativas: Modelagem 3D, Design gráfico  
 - 😄 Pronome: Gloria a Deus...
 
 ## 🛠️ Tech Stack
 
 <div style="display: inline_block">
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C">
+  <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   <img align="center" alt="Blender" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender">
@@ -32,7 +33,7 @@
     <p><a href="https://github.com/Derick1337/Chronicles_of_the_hero" target="_blank" rel="noopener noreferrer"><strong>Ver Repositório &rarr;</strong></a></p>
   </div>
 
-  </div>
+</div>
 
 ---
 
@@ -47,7 +48,8 @@
 
 ## 🌐 Conecte-se Comigo
 
-<div style="text-align: center;"> <a href="https://www.instagram.com/derick_1337" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+<div style="text-align: center;">
+  <a href="https://www.instagram.com/derick_1337" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:lucaspereiraderick@gmail.com" style="margin-right: 10px;">
@@ -56,4 +58,4 @@
   <a href="https://www.linkedin.com/in/lucas-derick-silva-pereira-507861276/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  </div>
+</div>
