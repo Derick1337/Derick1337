@@ -24,12 +24,12 @@
 
   <div>
     <h3>📌 Projeto 1: Chronicles of the hero</h3>
-    <a href="URL_DO_SEU_PROJETO_CHRONICLES_OF_THE_HERO_AQUI" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/Derick1337/Chronicles_of_the_hero" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/Derick1337/Chronicles_of_the_hero/main/Screenshot%202025-02-26%20161708.png" alt="Preview do Projeto Chronicles of the hero" width="100%" style="max-width: 450px; height: auto; border-radius: 8px; border: 2px solid #ccc;">
     </a>
     <p><strong>Tecnologias:</strong> Python (com Pyxel)</p>
     <p>Parte de um projeto da faculdade construído com meu amigo Lincon (<a href="https://github.com/LinconAvila" target="_blank" rel="noopener noreferrer">@LinconAvila</a>), é um jogo de luta PvP local simples programado em Python, usando a biblioteca Pyxel.</p>
-    <p><a href="URL_DO_SEU_PROJETO_CHRONICLES_OF_THE_HERO_AQUI" target="_blank" rel="noopener noreferrer"><strong>Ver Repositório &rarr;</strong></a></p>
+    <p><a href="https://github.com/Derick1337/Chronicles_of_the_hero" target="_blank" rel="noopener noreferrer"><strong>Ver Repositório &rarr;</strong></a></p>
   </div>
 
   </div>
