@@ -40,7 +40,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Derick1337&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats de Derick1337" />
-  <img width="400" src="" alt="Top Linguagens de Derick1337" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derick1337&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Linguagens de Derick1337" />
 </div>
 
 ---
